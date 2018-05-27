@@ -1,6 +1,8 @@
 module Main where
 
-import Control.Monad.Eff (Eff, log)
+import Prelude
+import Control.Monad.Eff (Eff)
+import Control.Monad.Eff.Console (log)
 
 main :: Eff _ Unit
 main = log "Am I working?"
