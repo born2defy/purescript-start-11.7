@@ -1,0 +1,32 @@
+{
+  "name": "purescript-start-11.7",
+  "description": "Build stuff with PureScript v11.",
+  "authors": [
+    "AR"
+  ],
+  "license": "Apache-2.0",
+  "ignore": [
+    "node_modules",
+    "bower_components"
+  ],
+  "keywords": [
+    "purescript"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/born2defy/purescript-start-11.7.git"
+  },
+  "dependencies": {
+    "purescript-aff": "^4.0.0",
+    "purescript-eff": "^3.1.0",
+    "purescript-lists": "^4.0.1",
+    "purescript-maps": "^3.0.0",
+    "purescript-functions": "^3.0.0",
+    "purescript-profunctor": "^3.0.0",
+    "purescript-globals": "^3.0.0",
+    "purescript-foldable-traversable": "^3.4.0"
+  },
+  "devDependencies": {
+    "purescript-psci-support": "^3.0.0",
+  }
+}
