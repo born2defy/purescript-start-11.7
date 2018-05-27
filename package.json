@@ -10,7 +10,7 @@
     "bower": "bower",
     "bower:install":"bower install",
     "pulp": "pulp",
-    "purs": "purs",
+    "purs": "purs"
   },
   "dependencies": {
   },
